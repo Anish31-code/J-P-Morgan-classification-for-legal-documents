@@ -1,1 +1,1 @@
-# J-P-Morgan-classification-for-legal-documents
+The project is basically a CRISP DM analysis.
